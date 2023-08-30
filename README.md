@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C language, Java script, CSS, jQuery, Java**
 
-- 📫 How to reach me **avishkanperera@gmail.com**
+- 📫 How to reach me **avishkanperera4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
