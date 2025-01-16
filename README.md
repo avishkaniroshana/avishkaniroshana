@@ -9,7 +9,7 @@
 
 - 🔭 I’m a undergraduate at Faculty of Technology of University of Ruhuna
 
-- 🌱 I’m currently learning **Java, Spring Boot, C language, Java script, CSS, jQuery, Mysql, PHP*
+- 🌱 I’m currently learning **Java, Spring Boot, C language, Java script, CSS, jQuery, Mysql, PHP**
 
 - 💬 Ask me about **Java, Spring Boot, C language, Java script, CSS, jQuery**
 
