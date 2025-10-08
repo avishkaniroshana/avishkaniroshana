@@ -47,14 +47,33 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> 
   </a> 
-</p>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishkaniroshana&show_icons=true&locale=en&layout=compact" alt="avishkaniroshana" /></p> -->
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkaniroshana&layout=compact&langs_count=8&hide=html,css,scss,python" alt="Top Languages" />
+<!-- 💡 MOST EXPERIENCED -->
+<h3 align="center">💡 Most Experienced In</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkaniroshana&show_icons=true&locale=en" alt="avishkaniroshana" /></p> 
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishkaniroshana&" alt="avishkaniroshana" /></p>
+  <!-- GitHub Streak -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishkaniroshana&" alt="avishkaniroshana" />
+
+  <br><br>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=avishkaniroshana&show_icons=true&locale=en" alt="GitHub Stats" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkaniroshana&layout=compact&langs_count=8&hide=html,css,scss,python" alt="Top Languages" />
+
+</div>
+
+
+
 
