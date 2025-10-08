@@ -48,8 +48,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> 
   </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishkaniroshana&show_icons=true&locale=en&layout=compact" alt="avishkaniroshana" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishkaniroshana&show_icons=true&locale=en&layout=compact" alt="avishkaniroshana" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkaniroshana&show_icons=true&locale=en" alt="avishkaniroshana" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkaniroshana&layout=compact&langs_count=8&hide=html,css,scss,python" alt="Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkaniroshana&show_icons=true&locale=en" alt="avishkaniroshana" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishkaniroshana&" alt="avishkaniroshana" /></p>
+
