@@ -59,6 +59,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avishkaniroshana&show_icons=true&locale=en" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishkaniroshana" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=avishkaniroshana&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  </a>
 </div>
 
