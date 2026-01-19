@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkaniroshana" alt="avishkaniroshana" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=avishkaniroshana" alt="avishkaniroshana trophies" />
+  </a>
 </p>
 
 <p align="center">
@@ -19,7 +21,7 @@
 ### 🔭 About Me
 - Undergraduate at **Faculty of Technology, University of Ruhuna**  
 - 💻 Passionate about **Java, Spring Boot, and Web Development**  
-- 🌱 Currently learning **Java, Spring Boot, ReactJS, JavaScript, TypeScript, Tailwind CSS, MySQL, MongoDB **
+- 🌱 Currently learning **Java, Spring Boot, ReactJS, JavaScript, TypeScript, Tailwind CSS, MySQL, MongoDB**
 - 💬 Ask me about **Java, Spring Boot, JavaScript**  
 - 📫 Reach me at **avishkanperera4@gmail.com**
 
@@ -63,7 +65,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=avishkaniroshana&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=avishkaniroshana&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
   </a>
 </div>
 
