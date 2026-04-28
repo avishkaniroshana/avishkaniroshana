@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/avishkaniroshana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/avishkaniroshana" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
 </p>
 
 ---
