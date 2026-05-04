@@ -62,12 +62,10 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avishkaniroshana&theme=tokyonight" />
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avishkaniroshana&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br><br>
+  
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=avishkaniroshana&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
